@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cloud Cost Pre-Mortem Agent",
+  "description": "A developer tool to estimate AWS, Azure, and GCP infrastructure costs from Terraform files before deployment, featuring AI-powered optimization advice.",
+  "requestFramePermissions": []
+}
